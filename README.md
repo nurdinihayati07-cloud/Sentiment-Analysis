@@ -9,7 +9,7 @@ The goal is to classify reviews into positive, negative, and neutral categories 
 The notebook guides the user through the following key stages:
 
 1.  **Data Extraction & Cleaning:** Collecting the raw text data ny extract it, followed by essential preprocessing steps like noise reduction, tokenization, and cleaning.
-2.  **Model Implementation:** Utilizing a **[State the specific NLP technique, e.g., Scikit-learn's Logistic Regression, VADER lexicon, or a custom Neural Network]** model for sentiment classification.
+2.  **Model Implementation:** Utilizing a **custom Neural Network** model for sentiment classification.
 3.  **Evaluation:** Assessing the model's performance using standard metrics (e.g., accuracy, precision, recall).
 4.  **Visualization:** Presenting the final sentiment distribution and key findings through clear data visualizations.
 
@@ -19,8 +19,8 @@ This project relies on the Python data science stack:
 
 * **Core Language:** Python
 * **Data Handling:** Pandas, NumPy
-* **NLP:** [Specify your NLP library, e.g., NLTK, spaCy, or Hugging Face]
-* **Machine Learning:** [Specify your ML library, e.g., Scikit-learn, TensorFlow]
+* **NLP**
+* **Machine Learning:**Scikit-learn, TensorFlow
 * **Visualization:** Matplotlib / Seaborn
 
 ## 🚀 Get Started (Run the Notebook)
